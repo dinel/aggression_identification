@@ -1,7 +1,7 @@
 # Aggressive Language Identification Using Word Embeddings and Sentiment Features
 
 This notebook presents the code of my participation in the 
-<a href=\"https://sites.google.com/view/trac1/shared-task\" target=\"_blank\">
+<a href="https://sites.google.com/view/trac1/shared-task" target="_blank">
 First Shared Task on Aggression Identification</a>. More details about the 
 approach can be found in:
 
@@ -14,9 +14,10 @@ http://aclweb.org/anthology/W18-4414
 
 In order to run this notebook you will need the following software:
 * python3.6
-* <a href="https://nltk.org">NLTK</a>
+* <a href="https://nltk.org" target="_blank">NLTK</a>
 * numpy and sklearn
-Probably the easiest way to get all these is to install <a href="https://www.anaconda.com/download/">
+
+Probably the easiest way to get all these is to install <a href="https://www.anaconda.com/download/" target="_blank">
 Anaconda</a>. 
 
 You will also need to obtain the training, development and testing data from the
